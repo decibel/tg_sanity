@@ -1,0 +1,5 @@
+\set ECHO none
+EXPECT: required extension "tg_sanity" is not installed
+ERROR:  required extension "tg_sanity" is not installed
+EXPECT: required extension "pgtap" is not installed
+ERROR:  required extension "pgtap" is not installed

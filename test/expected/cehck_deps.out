@@ -1,0 +1,3 @@
+\set ECHO none
+ERROR:  42704: required extension "tg_sanity" is not installed
+LOCATION:  CreateExtension, extension.c:1435

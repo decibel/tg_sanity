@@ -1,0 +1,4 @@
+comment = 'pgtap testing function for tg_sanity triggers'
+default_version = '0.1.0'
+relocatable = true
+requires = 'tg_sanity, pgtap'
