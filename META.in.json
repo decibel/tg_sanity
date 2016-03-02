@@ -56,7 +56,7 @@
             "version": "0.1.0",
 
             "X_comment": "Optional: \"abstract\": Description of the extension.",
-            "abstract": "pgtap testing function for tg_sanity triggers"
+            "abstract": "pgtap testing function for tg_sanity triggers",
 
             "X_comment": "Optional: \"docfile\": filesystem path to document file for extension.",
             "docfile": "",
