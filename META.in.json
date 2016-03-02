@@ -88,7 +88,8 @@
 
         "build": {
             "requires": {
-                "PostgreSQL": "9.5.0"
+                "X_comment": "Currently uses JSONB which showed up in 9.4",
+                "PostgreSQL": "9.4.0"
             }
         },
         "runtime": {
