@@ -84,11 +84,11 @@
     "X_comment": "Optional. 'prereqs': Prerequisits for the distribution. http://pgxn.org/spec/#prereqs",
     "X_comment": "Valid keys for 'prereqs' are configure, build, runtime, or test.",
     "X_comment": "Valid keys for 'requires' are requires, recommends, suggests, or conflicts.",
-    "prereqs": {
 
+    "X_comment": "Currently uses JSONB which showed up in 9.4",
+    "prereqs": {
         "build": {
             "requires": {
-                "X_comment": "Currently uses JSONB which showed up in 9.4",
                 "PostgreSQL": "9.4.0"
             }
         },
